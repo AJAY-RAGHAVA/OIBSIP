@@ -1,4 +1,4 @@
-# OISIP - OASIS INFOBYTE SUMMER INTERNSHIP
+# OIBSIP - OASIS INFOBYTE SUMMER INTERNSHIP
 
 It was a great experience in the development of the web development and i had earned many skills by this internship.
 
